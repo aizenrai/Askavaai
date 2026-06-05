@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AVA — Your Trusted AI Business Advisor</title>
+  <meta name="description" content="Stop wasting time comparing hundreds of AI tools. Discover the right AI solutions for your business in under 60 seconds." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="logo" href="#top" aria-label="AVA home">AVA</a>
+      <nav class="nav">
+        <a href="#assessment">AI Assessment</a>
+        <a href="#how">How it works</a>
+        <a href="#about">Meet AVA</a>
+        <a href="#contact" class="btn btn-small">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <!-- SECTION 1 — HERO -->
+    <section class="hero">
+      <div class="container hero-inner">
+        <div class="hero-copy">
+          <p class="eyebrow">Meet AVA</p>
+          <h1>Your Trusted AI Business Advisor</h1>
+          <p class="lead">
+            Stop wasting time comparing hundreds of AI tools.
+            Discover the right AI solutions for your business in under 60 seconds.
+          </p>
+
+          <div class="cta-row">
+            <a class="btn" href="#assessment">Start Your Free AI Assessment</a>
+            <span class="subtle">No technical skills required.</span>
+          </div>
+
+          <ul class="pill-list" aria-label="Key benefits">
+            <li>Save Time</li>
+            <li>Automate Tasks</li>
+            <li>Grow Faster</li>
+          </ul>
+        </div>
+
+        <div class="hero-visual card">
+          <div class="avatar">
+            <!-- Replace this placeholder with an image later -->
+            <div class="avatar-placeholder">
+              <span>AVANLBRImage</span>
+            </div>
+          </div>
+          <div class="mini-metrics">
+            <div class="mini">
+              <div class="mini-title">Save Time</div>
+              <div class="mini-desc">Cut research overload</div>
+            </div>
+            <div class="mini">
+              <div class="mini-title">Automate Tasks</div>
+              <div class="mini-desc">Pick tools that fit</div>
+            </div>
+            <div class="mini">
+              <div class="mini-title">Grow Faster</div>
+              <div class="mini-desc">Focus on what works</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION 2 — THE PROBLEM -->
+    <section class="section">
+      <div class="container">
+        <h2>Small Business Owners Are Overwhelmed</h2>
+        <p class="muted">
+          Every day new AI tools promise to save time and grow your business. But which ones actually work?
+        </p>
+
+        <div class="card list-card">
+          <p class="muted" style="margin-top:0;">Most business owners:</p>
+          <ul class="x-list">
+            <li>Waste money on tools they never use</li>
+            <li>Feel overwhelmed by options</li>
+            <li>Don’t know where to start</li>
+            <li>Lack time to research</li>
+          </ul>
+          <p class="strong" style="margin-bottom:0;">AVA helps cut through the noise.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION 3 — HOW AVA WORKS -->
+    <section id="how" class="section alt">
+      <div class="container">
+        <h2>Get Your Personalized AI Toolkit</h2>
+
+        <div class="grid-3">
+          <div class="card step">
+            <div class="step-num">Step 1</div>
+            <h3>Tell Ava About Your Business</h3>
+            <p class="muted">Answer a few simple questions.</p>
+          </div>
+          <div class="card step">
+            <div class="step-num">Step 2</div>
+            <h3>Receive Personalized Recommendations</h3>
+            <p class="muted">Get the best AI tools based on your goals.</p>
+          </div>
+          <div class="card step">
+            <div class="step-num">Step 3</div>
+            <h3>Start Saving Time</h3>
+            <p class="muted">Implement proven solutions that work.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION 4 — THE ASSESSMENT CTA -->
+    <section id="assessment" class="section">
+      <div class="container">
+        <div class="cta-card">
+          <div>
+            <h2 style="margin-top:0;">Discover Your Perfect AI Stack</h2>
+            <p class="muted">
+              Find out which AI tools are best for:
+            </p>
+            <ul class="check-grid">
+              <li>Marketing</li>
+              <li>Customer Service</li>
+              <li>Content Creation</li>
+              <li>Productivity</li>
+              <li>Sales</li>
+              <li>Automation</li>
+            </ul>
+          </div>
+
+          <div class="cta-actions">
+            <a class="btn btn-wide" href="#contact">Take The Free Assessment</a>
+            <p class="tiny muted">
+              (For now this button can link to your Google Form / Typeform later.)
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION 5 — MEET AVA -->
+    <section id="about" class="section alt">
+      <div class="container two-col">
+        <div>
+          <h2>Who Is Ava?</h2>
+          <p>
+            AVA is your AI Business Advisor.
+          </p>
+          <p class="strong">
+            Her mission is simple:
+          </p>
+          <p class="muted">
+            Help business owners use AI without confusion, complexity, or wasted money.
+          </p>
+          <p class="muted">
+            Whether you’re a consultant, freelancer, local business, or entrepreneur, AVA can help identify the right tools for your business.
+          </p>
+        </div>
+
+        <div class="card">
+          <h3 style="margin-top:0;">What you’ll get</h3>
+          <ul class="check-list">
+            <li>Tool recommendations that match your goals</li>
+            <li>Clear next steps (no jargon)</li>
+            <li>Time-saving workflows you can actually use</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION 6 — BENEFITS -->
+    <section class="section">
+      <div class="container">
+        <h2>What Can AI Do For Your Business?</h2>
+        <div class="grid-3">
+          <div class="card"><h3>Increase productivity</h3></div>
+          <div class="card"><h3>Reduce admin work</h3></div>
+          <div class="card"><h3>Generate more leads</h3></div>
+          <div class="card"><h3>Create content faster</h3></div>
+          <div class="card"><h3>Improve customer service</h3></div>
+          <div class="card"><h3>Save hours every week</h3></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION 7 — EMAIL CAPTURE -->
+    <section class="section alt">
+      <div class="container">
+        <div class="email-card card">
+          <div>
+            <h2 style="margin-top:0;">Get Your Free AI Business Toolkit</h2>
+            <p class="muted">Join business owners receiving practical AI advice every week.</p>
+          </div>
+
+          <!-- GitHub Pages is static: this is a placeholder UI.
+               Later you can connect a real form (Mailchimp, ConvertKit, Buttondown, Google Form, Formspree, etc.) -->
+          <form class="email-form" action="#" method="post" onsubmit="return false;">
+            <label class="sr-only" for="email">Email</label>
+            <input id="email" type="email" placeholder="Enter your email" />
+            <button class="btn" type="submit">Send My Toolkit</button>
+            <p class="tiny muted" style="margin:10px 0 0;">
+              This form is a placeholder on GitHub Pages. Add a real email tool later.
+            </p>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- SECTION 8 — FOOTER -->
+  <footer id="contact" class="footer">
+    <div class="container footer-inner">
+      <div class="footer-links">
+        <a href="#top">Home</a>
+        <a href="#assessment">AI Assessment</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">Terms &amp; Conditions</a>
+        <a href="#">Affiliate Disclosure</a>
+        <a href="mailto:you@avaadvisory.ai?subject=AVA%20Enquiry">Contact</a>
+      </div>
+
+      <p class="tiny muted" style="margin:12px 0 0;">
+        AVA Advisory AI may earn commissions from some recommended products at no additional cost to you.
+      </p>
+
+      <p class="tiny muted" style="margin:12px 0 0;">
+        © <span id="year"></span> AVA Advisory AI
+      </p>
+    </div>
+
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+  </footer>
+</body>
+</html>
